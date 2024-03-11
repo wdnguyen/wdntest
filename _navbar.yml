@@ -12,6 +12,8 @@ left:
          href: ./project1.html
        - text: "Project part 2"
          href: ./project2.html
+       - text: "AAPIiG Profile"
+         href: ./profiletest.html
   - text: "Contact"
     href: ./contact.html
 right:
